@@ -4,10 +4,10 @@ The increasing amounts of imports and exports have served good purpose in many A
 
 ### Contents
 
-(1) basic preprocessing.<br>
+(1) Basic Preprocessing.<br>
 (2) Exploratory Data Analysis.<br>
 (3) Features Engineering.<br>
 (4) Features Selectons.<br>
-(5) Fix class imbalance problem (Random Oversampling).<br>
-(5) Building Models and Evaluations.<br>
-(6) Best model selection (Cross Validation).
+(5) Fix class Imbalance Problem (Random Oversampling).<br>
+(5) Building & Evaluate Machine learning Models.<br>
+(6) Best mMdel Selection (Cross Validation).
